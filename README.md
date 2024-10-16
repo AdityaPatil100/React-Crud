@@ -50,13 +50,16 @@ In backend dir, check config->config.json and set database connection
        "dialect": "mysql"
      }
    }
+```
+Screenshots:
+![Screenshot 2024-10-17 005251](https://github.com/user-attachments/assets/d314f17f-d77f-4654-8d6c-c3af6500b6b4)
+![Screenshot 2024-10-17 005433](https://github.com/user-attachments/assets/cfc3bc19-bbec-4a6b-9a7f-5640ec7e6d24)
+![Screenshot 2024-10-17 005501](https://github.com/user-attachments/assets/89508343-3922-449a-bc69-57b389b137a5)
+![Screenshot 2024-10-17 005516](https://github.com/user-attachments/assets/7e2cefa1-7f47-4b16-92d1-fd8b0e769b5c)
 
-Screenshots
-![Screenshot 2024-10-17 005501](https://github.com/user-attachments/assets/68b0941e-eacb-4eb3-adb0-d178cfa5acbf)
-![Screenshot 2024-10-17 005433](https://github.com/user-attachments/assets/633a9a34-6bee-4300-a1bd-8021ed73704a)
-![Screenshot 2024-10-17 005356](https://github.com/user-attachments/assets/fcb0ef5a-18b0-4eb8-af12-bfc7acdb24dd)
-![Screenshot 2024-10-17 005251](https://github.com/user-attachments/assets/0b51dcd3-2276-4f73-a9b6-f5237d3264ea)
-![Screenshot 2024-10-17 005516](https://github.com/user-attachments/assets/8d8bec76-9741-4652-beb5-7017d2eeb509)
+
+
+
 
 
 
