@@ -36,7 +36,7 @@ const UserList = ({ users, onDelete }) => {
                     <Button
                       variant="outline-danger"
                       className="me-2"
-                      style={{ color: 'red', borderColor: 'red' }}
+                      style={{ color: 'white', backgroundColor: 'red', borderColor: 'red' }}
                       onClick={() => handleEdit(user)}
                     >
                       Edit
